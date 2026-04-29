@@ -4,7 +4,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: Liberata, 'Times New Roman', serif;
   font-size: 18px;
   line-height: 1.8;
   color: #111;
@@ -47,7 +47,7 @@ article {
 
 /* ── Article header ── */
 .article-header {
-  padding: 36px 0 0;
+  padding: 30px 0 0;
   border-bottom: 1px solid #e0e0e0;
   margin-bottom: 24px;
 }
