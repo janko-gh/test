@@ -8,7 +8,7 @@ body {
   font-size: 18px;
   line-height: 1.8;
   color: #111;
-  background: #fff;
+  background: #c2bab2;
 }
 
 /* ── Publication header ── */
@@ -82,9 +82,10 @@ h1 {
 }
 
 .hero img {
-  width: 30%;
+  width: 35%;
   height: auto;
   display: block;
+  margin: 0 auto;
 }
 
 .hero figcaption {
